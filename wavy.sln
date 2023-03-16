@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wavy", "wavy\wavy.csproj", "{AAA12325-6773-4AD9-AB78-ABB2F1C5F5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA12325-6773-4AD9-AB78-ABB2F1C5F5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA12325-6773-4AD9-AB78-ABB2F1C5F5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA12325-6773-4AD9-AB78-ABB2F1C5F5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA12325-6773-4AD9-AB78-ABB2F1C5F5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F18C7297-8AE4-4BAC-AB94-1E087D8DA16E}
+	EndGlobalSection
+EndGlobal
